@@ -1,0 +1,8 @@
+ article {
+    background: 	#DEB887; /* ÷вет фона */
+    color: #8B0000; /* ÷вет текста */
+    
+    -webkit-border-radius: 0px 20px; /* ƒл€ Safari 4 и Chrome */
+    border-radius: 0px 20px; /* ƒл€ современных браузеров */
+   }
+ 
